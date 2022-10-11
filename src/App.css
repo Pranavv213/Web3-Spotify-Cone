@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+.hello{
+    height:100%;
+    width:100%;
+}
+.spotifyImg{
+    margin-left:3em;
+    margin-top:1em;
+    width:3em;
+}
+.search{
+    
+    margin-top:4em
+}

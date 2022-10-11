@@ -1,0 +1,47 @@
+.hello{
+    height:30em;
+}
+.albumHeader{
+    display: flex;
+}
+.albumImg{
+    padding-left: 4em;
+    padding-top: 2em;
+    width:18em
+
+}
+.album2{
+    padding-left: 2em;
+    padding-top: 9em;
+}
+.openseaDiv{
+    border:solid  1px black;
+    border-radius:17px;
+    width:10em;
+    transition-delay:0.2s
+    
+}
+.openseaDiv:hover{
+    border:solid  1px rgb(58, 230, 39);
+    border-radius:30px;
+    background-color: rgb(186, 244, 185);
+    width:10em;
+    cursor:pointer
+    
+}
+.opensea{
+ 
+    width:2em
+}
+.albumPlay{
+    display: flex;
+    flex-direction: row;
+    padding-left: 4em;
+   
+}
+.albumSongs{
+    display: flex;
+    flex-direction: column;
+    padding-left:4em;
+    padding-top:2em
+}
